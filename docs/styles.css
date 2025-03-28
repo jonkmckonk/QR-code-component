@@ -1,5 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
-.h1 {
+.Outfit-bold {
     font-family: 'Outfit';
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: 0px;
+    line-height: 120%;
+    color: #1f311f;
+}
+
+.Outfit-regular {
+    font-family: 'Outfit';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 140%;
+    color: #d5e1ef;
 }
