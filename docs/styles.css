@@ -1,11 +1,8 @@
-@font-face {
-    font-family: "Outline";
-    src: url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
-}
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 .full-styles .title,
 .full-styles p{
-    font-family: "Outline";
+    font-family: "Outfit";
 }
 
 .full-styles .title {
