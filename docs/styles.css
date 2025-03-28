@@ -22,19 +22,29 @@
     text-align: center;
 }
 
+.header {
+    background-color: #d5e1ef;
+    padding: 2%;
+    text-align: center;
+}
+
 .bg {
     background-color: #d5e1ef;
     text-align: center;
 }
 
 #rcorners {
-    border-radius: 25px;
+    border-radius: 5%;
     background: #FFFFFF;
-    padding: 20px;
-    width: 200px;
-    height: 150px;
+    width: 20%;
+    margin: auto;
+    padding: 1%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
 img {
-    border-radius: 25px;
+    border-radius: 5%;
+    display: block;
+    margin: auto;
+    width: 100%;
 }
