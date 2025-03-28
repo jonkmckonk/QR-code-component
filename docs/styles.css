@@ -22,15 +22,8 @@
     text-align: center;
 }
 
-div {
+body {
     background-color: #d5e1ef;
-    display: flex;
-    justify-content: center;
-}
-
-img {
-    width: 50%;
-    height: 50%;
 }
 
 #rcorners {
