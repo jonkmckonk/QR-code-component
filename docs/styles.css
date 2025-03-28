@@ -1,10 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
-.full-styles .title{
-    font-family: "Outfit", sans-serif;
-}
-
 .full-styles .title {
+    font-family: "Outfit";
     font-weight: 700;
 }
 
