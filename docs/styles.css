@@ -15,5 +15,9 @@
     font-size: 15px;
     letter-spacing: 0.2px;
     line-height: 140%;
-    color: #d5e1ef;
+    color: #68778d;
+}
+
+div {
+    background-color: #d5e1ef;
 }
