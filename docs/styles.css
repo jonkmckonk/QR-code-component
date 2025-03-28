@@ -24,6 +24,7 @@
 
 .bg {
     background-color: #d5e1ef;
+    text-align: center;
 }
 
 #rcorners {
@@ -32,4 +33,8 @@
     padding: 20px;
     width: 200px;
     height: 150px;
+}
+
+img {
+    border-radius: 25px;
 }
