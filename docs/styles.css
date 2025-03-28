@@ -32,3 +32,11 @@ img {
     width: 50%;
     height: 50%;
 }
+
+#rcorners {
+    border-radius: 25px;
+    background: #FFFFFF;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+}
