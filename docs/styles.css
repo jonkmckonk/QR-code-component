@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Outfit";
-    src: url(https://fonts.googleapis.com/css?family=Outfit);
+    src: url(https://fonts.googleapis.com/css?family=Outfit) format(woff2);
 }
 .outfit-styles .title{
     font-family: "Outfit", sans-serif;
